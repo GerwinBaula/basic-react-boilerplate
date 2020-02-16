@@ -1,0 +1,21 @@
+$first-color: #fff;
+$second-color: #fff;
+$third-color: #fff;
+$fourth-color: #fff;
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Fira Sans", sans-serif !important;
+  letter-spacing: 0.1rem;
+  word-spacing: 0.1rem;
+  line-height: 1.8rem !important;
+}
+
+::selection {
+  // color:
+}
+
+// Note: Use media queries for sass in bootstrap
